@@ -3,7 +3,7 @@
 
 Welcome to Pinbox2! Pinbox2 is a homebrew application that is a replacement/remake of PinBox for the Nintendo 3DS that streams content from your Windows PC or Mac to the 3DS. Keep in mind, Pinbox2 is currenty in closed alpha, so bugs will occur! Contact Evan124#4183 on the Pinbox2 Discord for help (once made).
 
-https://discord.gg/00000         Coming Soon
+https://discord.gg/EeAwUjG9V9
 
 Current Plans:
 
